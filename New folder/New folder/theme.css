@@ -1,0 +1,51 @@
+body {
+	font-family: verdana;
+	background-color: #0f0f09;
+	background-image: url(blueprint01.jpg);
+	background-attachment: ;
+	background-repeat:;
+	background-size: cover;}
+h2{
+	font-family: trebuchen ms;
+	font-family: verdana;
+	color: rgba(228, 229, 39, 1);
+	background-color: #090906;
+	text-align: center;
+	font-size:24pt;
+	}
+p{
+	font-family: verdana;
+	line-height:1.5em;
+	text-indent:30px;
+	margin-bottom:40px;}
+		
+h3{
+	font-family: verdana;
+	color: rgba(228, 229, 39, 1);
+	background-color: #090906;
+	text-align: center;
+	font-size:16pt;
+	}
+div {
+	background-color: rgba(228, 229, 39, .8);
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 40px;
+	border:8px solid white;
+	}
+a:link {color: black}
+
+a:visited{color: gray}
+
+a:hover {
+	text-size: 20px;
+	color: green;
+	border: 5px #4edf40;}
+
+a:active {}
+
+
+img {
+	border:10px solid white;
+	box-shadow: 20px 20px 30px #b5b608 ;}
