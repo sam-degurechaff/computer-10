@@ -1,0 +1,110 @@
+body {
+	font-family: Octin Sports;
+	background-color: #0f0f09;
+	background-image: url(background1.jpg);
+	background-attachment: fixed;
+	background-repeat:none;
+	background-size: cover;}
+h1{
+	font-family: 'Special Elite', cursive;
+	color: rgba(228, 229, 39, 1);
+	background-color: #044872;
+	text-align: center;
+	font-size:38pt;
+	}
+h2{
+	font-family: 'Special Elite', cursive;
+	background-color: rgba(255, 234, 177, .3);
+	margin-left: auto;
+	margin-right: auto;
+	padding: 40px;
+	color: #DCFFF7;
+	font-size:16pt;
+	line-height: 1.6; 
+	}
+h3{
+	font-family: 'Special Elite', cursive;
+	font-family: 'Epilogue', sans-serif;
+	background-color: rgba(255, 234, 177, .2);
+	margin-left: auto;
+	margin-right: auto;
+	padding:30px;
+	color: #A9DCD6;
+	font-size: 18pt;
+	line-height: 1.4; 
+}
+div {
+	background-color: rgba(1, 60, 88, .7);
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 40px;
+	border:8px solid white;
+	color: #DCFFF7;
+	font-size:16pt;
+	}
+table {
+	border-collapse: collapse;
+	border: 2px solid #EE3B3B;
+	background-color: rgba(1, 60, 88, .7);
+	width: 100%;
+	color: #DCFFF7;
+	font-size:12pt;
+	
+}
+	
+td, th {
+	border: 1px solid #ee3b3b;
+	text-align: left;
+	padding: 8px;
+}
+tr:nth-child(even){ 
+	background-color: #5d85a9;
+}
+h1.gallery {
+	font-family: 'Odibee Sans', cursive;
+	color: #A9DCD6;
+	font-size:70px;
+	}
+h1.achevements{
+	font-family: 'Mate SC', serif;
+	font-family: 'Odibee Sans', cursive;
+	color: #FFD358;
+}
+h1.title{
+	background-color:rgba(75, 77, 201, .6);
+	font-size: 120px;
+	font-family: 'Great Vibes', cursive;
+	margin-top: 325px;
+	margin-bottom: 50px;
+	color: #fff9f9;
+}
+h1.title-gallery{
+	background-color:rgba(75, 77, 201, .6);
+	font-size: 120px;
+	font-family: 'Great Vibes', cursive;
+	margin-top: 325px;
+	margin-bottom: 50px;
+	color: #fff9f9;
+}
+.video01{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+	hr.dashed {
+  border-top: 3px dashed #FFF68F;
+}
+	
+	a:link {color: ffffd5}
+
+	a:visited{color: cece8b}
+
+	a:hover {
+	size: 10px;
+	color: #c33333;
+	}
+
+	a:active {}
+
+	https://olympic.ca/team-canada/patrick-chan/ https://fonts.google.com/?query=sports
